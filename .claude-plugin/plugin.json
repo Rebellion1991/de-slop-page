@@ -1,0 +1,14 @@
+{
+  "name": "de-slop-page",
+  "description": "Claude skill that strips the AI look from a web page's styling (gradients, glows, emoji, drifting spacing) without touching features or copy facts.",
+  "version": "0.1.0",
+  "author": {
+    "name": "Ahmed Shenawy"
+  },
+  "license": "MIT",
+  "repository": "https://github.com/Rebellion1991/de-slop-page",
+  "homepage": "https://github.com/Rebellion1991/de-slop-page",
+  "documentationUrl": "https://github.com/Rebellion1991/de-slop-page/blob/main/README.md",
+  "supportUrl": "https://github.com/Rebellion1991/de-slop-page/issues",
+  "privacyPolicyUrl": "https://github.com/Rebellion1991/de-slop-page/blob/main/PRIVACY.md"
+}
